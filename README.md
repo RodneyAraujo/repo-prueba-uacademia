@@ -1,21 +1,21 @@
-Dashboard SIMCE - README
+## Dashboard SIMCE - README
 Este proyecto permite analizar y visualizar los resultados SIMCE a nivel nacional y comunal mediante una aplicación interactiva en Streamlit.
 
-Archivos utilizados
+## Archivos utilizados
 simce.csv: Resultados SIMCE por comuna y año.
 
 promedio.csv: Promedio nacional del SIMCE por año.
 
-Funcionalidades principales
+## Funcionalidades principales
 Filtros por comuna y año.
 
-Comparación visual entre promedio nacional y comunal.
+## Comparación visual entre promedio nacional y comunal.
 
 Gráficos de evolución de puntajes.
 
 Visualización de métricas clave para el último año disponible.
 
-Requisitos
+## Requisitos
 Python 3.8+
 
 streamlit
