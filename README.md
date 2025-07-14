@@ -24,6 +24,6 @@ pandas
 
 matplotlib
 
-## Integrantes Esteban Gonzalez, Joaquin Riveros y Rodney Araujo
+## Integrantes: Esteban Gonzalez, Joaquin Riveros y Rodney Araujo
 
 ### https://uahcsimce.streamlit.app/
